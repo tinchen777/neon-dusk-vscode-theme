@@ -1,2 +1,4 @@
-# neon-dusk-vscode-theme
-Neon Dusk
+
+# Neon Dusk
+
+A Visual Studio Code dark theme.

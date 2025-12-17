@@ -1,0 +1,40 @@
+{
+	"name": "Theme-WarmNeon",
+	"displayName": "WarmNeon Theme",
+	"description": "WarmNeon Theme ported from the WarmNeon TextMate Theme",
+	"version": "0.0.5",
+	"publisher": "gerane",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"homepage": "https://github.com/gerane/VSCodeThemes/blob/master/gerane.Theme-WarmNeon/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gerane/VSCodeThemes.git"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "WarmNeon",
+				"path": "./themes/WarmNeon.tmTheme",
+				"uiTheme": "vs-dark"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "d1b0b8b4-59d3-4050-bfb8-ca73e79bfa85",
+		"publisherId": "a5c25faf-bf60-4941-81b9-9a852b96c5fb",
+		"publisherDisplayName": "gerane",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1714471482989,
+		"hasPreReleaseVersion": false,
+		"source": "gallery",
+		"size": 61766
+	}
+}
