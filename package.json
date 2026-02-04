@@ -2,7 +2,7 @@
 	"name": "neon-dusk-theme",
 	"displayName": "Neon Dusk Theme",
 	"description": "Neon Dusk Theme is a dark VS Code color theme inspired by neon lights at dusk.",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "tinchen777",
 	"engines": {
 		"vscode": "^1.80.0"
