@@ -1,7 +1,7 @@
 
-# Neon Dusk
+# Neon Shibuya
 
-`Neon Dusk` Theme is a dark VS Code color theme inspired by neon lights at dusk.
+`Neon Shibuya` Theme is a dark VS Code color theme inspired by neon lights at dusk.
 
 ## Screenshot
 
@@ -9,4 +9,4 @@
 
 ## Installation
 
-Search "neon dusk" in VS Code Marketplace.
+Search "Neon Shibuya" in VS Code Marketplace.
