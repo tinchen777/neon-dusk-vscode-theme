@@ -1,27 +1,43 @@
 {
-	"name": "neon-dusk-theme",
-	"displayName": "Neon Dusk Theme",
-	"description": "Neon Dusk Theme is a dark VS Code color theme inspired by neon lights at dusk.",
-	"version": "0.0.2",
-	"publisher": "tinchen777",
-	"engines": {
-		"vscode": "^1.80.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"homepage": "https://github.com/tinchen777/neon-dusk-vscode-theme/blob/main/README.md",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/tinchen777/neon-dusk-vscode-theme.git"
-	},
-	"contributes": {
-		"themes": [
-			{
-				"label": "Neon Dusk",
-				"path": "./themes/neon-dusk.json",
-				"uiTheme": "vs-dark"
-			}
-		]
-	}
+    "name": "neon-dusk-theme",
+    "displayName": "Neon Dusk Theme",
+    "description": "Neon Dusk Theme is a dark VS Code color theme inspired by neon lights at dusk.",
+    "version": "0.1.0",
+    "publisher": "tinchen777",
+    "engines": {
+        "vscode": "^1.80.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+    "keywords": [
+        "theme",
+        "dark theme",
+        "neon",
+        "dusk",
+        "twilight",
+        "cyberpunk",
+        "vscode theme",
+        "color theme"
+    ],
+    "homepage": "https://github.com/tinchen777/neon-dusk-vscode-theme/blob/main/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tinchen777/neon-dusk-vscode-theme.git"
+    },
+    "license": "MIT",
+    "galleryBanner": {
+        "color": "#454545",
+        "theme": "dark"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Neon Dusk",
+                "path": "./themes/neon-dusk.json",
+                "uiTheme": "vs-dark"
+            }
+        ]
+    }
 }

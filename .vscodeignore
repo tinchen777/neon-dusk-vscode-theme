@@ -1,0 +1,26 @@
+# Git
+.git
+.gitignore
+
+# Node
+node_modules
+npm-debug.log
+yarn.lock
+pnpm-lock.yaml
+
+# Dev files
+.vscode
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Docs / sources
+*.psd
+*.ai
+
+# Screenshots source (optional)
+screenshots/
+
+draft/
